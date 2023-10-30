@@ -1,3 +1,11 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #a605a9;
+  color: white;
+  font-size: 30px;
+}
+
 .row {
   display: flex;
 }
@@ -7,6 +15,6 @@
   padding: 5px;
 }
 
-.cat h1 {
-  color: pink;
+.cat h2 {
+  color: #a605a9;
 }
