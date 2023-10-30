@@ -7,13 +7,15 @@
   font-size: 30px;
 }
 
-.header h2 {
-  font-size: 20px;
-}
-
 .cat {
   font-family: sans-serif;
 }
+
+.cat h2 {
+  color: #a605a9;
+  font-family: sans-serif;
+}
+
 
 .row {
   display: flex;
